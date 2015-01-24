@@ -4,7 +4,7 @@ Google Chrome extension to block Russian spying codes
 
 **This extension blocks Russian HTML codes**
 
-Chrome WebStore: https://chrome.google.com/webstore/detail/jijclklhdbbfjeldiaphhkkhecccendh/publish-accepted?hl=en-US&gl=UA
+Chrome WebStore: https://chrome.google.com/webstore/detail/jijclklhdbbfjeldiaphhkkhecccendh
 
 
 ---
