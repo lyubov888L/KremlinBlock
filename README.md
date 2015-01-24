@@ -4,6 +4,9 @@ Google Chrome extension to block Russian spying codes
 
 **This extension blocks Russian HTML codes**
 
+Chrome WebStore: https://chrome.google.com/webstore/detail/jijclklhdbbfjeldiaphhkkhecccendh/publish-accepted?hl=en-US&gl=UA
+
+
 ---
 
 Это расширение блокирует HTML коды российских компаний, которые теоретически способны следить за пользователями интернета. К примеру, на момент создания данного расширения коды Яндекса размещены в сайтах Цензор.Нет, ИнфоРезист и практически во всех информационных ресурсах Украины.
